@@ -1,0 +1,9 @@
+vpc-id = vpc-0bfbf46badc837fa9
+vpc-privsub1 = subnet-007ea8cc6f79ed1af
+vpc-privsub2 = subnet-0143cd825cc056d6d
+vpc-pubsub1 = subnet-054bdd24cfd8cea90
+vpc-pubsub2 = subnet-0c90a1967eba784f6
+vpc-security-grp-allow-docker-swarm = sg-00a632f510733c412
+vpc-security-grp-allow-influx = sg-0fa551d80897aeec5
+vpc-security-grp-allow-influx2 = sg-0f7cedf536ec89f34
+vpc-security-grp-allow-ssh = sg-02496b49e8875bd53
